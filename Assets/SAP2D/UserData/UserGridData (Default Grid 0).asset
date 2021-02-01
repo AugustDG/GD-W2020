@@ -1,0 +1,1131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97b56a97472cc504ea0ac1a89a218d45, type: 3}
+  m_Name: UserGridData (Default Grid 0)
+  m_EditorClassIdentifier: 
+  UnwalkableTiles:
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 0
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 4
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 5
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 6
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 7
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 8
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 9
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 10
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 3
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 2
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 1
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 11
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 12
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 13
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 14
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 15
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 16
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 0
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 1
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 2
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 3
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 4
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 5
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 6
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 7
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 21
+    gridY: 13
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 22
+    gridY: 13
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 22
+    gridY: 12
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 23
+    gridY: 12
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 24
+    gridY: 12
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 25
+    gridY: 12
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 23
+    gridY: 11
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 24
+    gridY: 11
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 25
+    gridY: 11
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 25
+    gridY: 10
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 24
+    gridY: 10
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 13
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 14
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 15
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 16
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 17
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 18
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 19
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 20
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 21
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 22
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 23
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 24
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 25
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 26
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 27
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 28
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 29
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 30
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 31
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 32
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 33
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 34
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 35
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 36
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 37
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 38
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 46
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 45
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 44
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 43
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 42
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 41
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 40
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 39
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 23
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 24
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 25
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 26
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 27
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 28
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 29
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 30
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 31
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 32
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 33
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 34
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 35
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 36
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 37
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 38
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 39
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 40
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 41
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 42
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 43
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 49
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 50
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 51
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 52
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 53
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 54
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 55
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 56
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 57
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 58
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 59
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 60
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 61
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 62
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 63
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 64
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 65
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 66
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 67
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 68
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 69
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 70
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 71
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 72
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 73
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 74
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 75
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 76
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 77
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 78
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 79
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 80
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 81
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 82
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 83
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 84
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 85
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 86
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 87
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 88
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 89
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 90
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 91
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 49
+    gridY: 10
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 50
+    gridY: 10
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 51
+    gridY: 10
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 51
+    gridY: 11
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 52
+    gridY: 11
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 50
+    gridY: 11
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 49
+    gridY: 11
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 50
+    gridY: 12
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 51
+    gridY: 12
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 52
+    gridY: 12
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 52
+    gridY: 13
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 51
+    gridY: 13
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 53
+    gridY: 13
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 53
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 52
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 54
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 55
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 56
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 57
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 58
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 59
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 60
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 61
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 62
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 63
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 64
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 65
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 66
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 67
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 68
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 74
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 75
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 76
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 77
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 78
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 79
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 80
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 81
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 82
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 83
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 84
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 85
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 86
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 87
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 88
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 89
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 90
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 91
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 92
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 93
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 94
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 95
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 96
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 97
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 98
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 99
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 100
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 101
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 102
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 103
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 104
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 105
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 106
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 107
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 108
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 109
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 110
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 111
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 112
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 113
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 114
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 115
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 116
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 117
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 118
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 120
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 121
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 122
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 123
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 124
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 125
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 126
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 127
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 128
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 129
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 130
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 131
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 119
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 132
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 133
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 134
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 135
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 136
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 137
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 138
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 139
+    gridY: 14
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 100
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 101
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 102
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 103
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 104
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 105
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 106
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 112
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 113
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 114
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 107
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 108
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 109
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 110
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 111
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 106
+    gridY: 12
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 105
+    gridY: 12
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 105
+    gridY: 11
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 106
+    gridY: 11
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 107
+    gridY: 11
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 107
+    gridY: 12
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 107
+    gridY: 13
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 108
+    gridY: 13
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 109
+    gridY: 13
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 108
+    gridY: 12
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 105
+    gridY: 10
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 106
+    gridY: 10
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 107
+    gridY: 10
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 108
+    gridY: 11
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 106
+    gridY: 13
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 121
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 122
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 123
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 124
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 125
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 126
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 127
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 128
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 129
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 130
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 131
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 132
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 133
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 134
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 135
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 136
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 137
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 138
+    gridY: 9
+  - isWalkable: 0
+    walkableLock: 1
+    gridX: 139
+    gridY: 9
